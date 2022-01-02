@@ -1,0 +1,10 @@
+C:\Users\Roberto\source\repos\LecturaJsonResponse\bin\Debug\LecturaJsonResponse.exe.config
+C:\Users\Roberto\source\repos\LecturaJsonResponse\bin\Debug\LecturaJsonResponse.exe
+C:\Users\Roberto\source\repos\LecturaJsonResponse\bin\Debug\LecturaJsonResponse.pdb
+C:\Users\Roberto\source\repos\LecturaJsonResponse\obj\Debug\LecturaJsonResponse.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\LecturaJsonResponse\obj\Debug\LecturaJsonResponse.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\LecturaJsonResponse\obj\Debug\LecturaJsonResponse.exe
+C:\Users\Roberto\source\repos\LecturaJsonResponse\obj\Debug\LecturaJsonResponse.pdb
+C:\Users\Roberto\source\repos\LecturaJsonResponse\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roberto\source\repos\LecturaJsonResponse\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roberto\source\repos\LecturaJsonResponse\obj\Debug\LecturaJsonResponse.csproj.CopyComplete
